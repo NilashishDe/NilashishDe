@@ -5,13 +5,16 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate student exploring the world of technology and software development. Driven by curiosity and a love for learning, I enjoy building projects that blend creativity and problem-solving.
+Software development enthusiast skilled in Java, Python, C/C++, and full-stack web development.
+Familiar with AWS, GCP, DevOps tools, and databases. Interested in building scalable applications and
+deepening knowledge of algorithms and software design.
 
 ## 🛠️ Skills & Tools
-- Programming Languages: (Add your languages here, e.g. Python, Java, C++)
-- Web Development: (e.g. HTML, CSS, JavaScript, React)
-- Data Science / Machine Learning: (e.g. Pandas, NumPy, scikit-learn)
-- Tools & Platforms: (e.g. Git, VS Code, Linux)
+- Programming Languages: Java, Python, C/C++ 
+- Web Development: - HTML5, CSS, JavaScript, React.js, Node.js
+- Cloud: AWS, GCP, Terraform, Docker
+- Databases : MySQL, MongoDB, PostgreSQL, DynamoDB
+- Tools: Excel, Git, VS Code, MS Office
 
 ## 🌟 Highlights
 - Favorite Projects:
@@ -20,7 +23,7 @@ I'm a passionate student exploring the world of technology and software developm
 - Certifications/Awards: (Mention any, e.g. Hackathon winner, online course certificates)
 
 ## 📫 Connect with Me
-- [LinkedIn](#) 
+- [LinkedIn](https://www.linkedin.com/in/nilashish-de-2083ba270/) 
 - [Personal Website](#) 
 - [Email](mailto:nilashishde103@gmail.com)
 
