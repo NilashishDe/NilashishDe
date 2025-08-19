@@ -16,15 +16,9 @@ deepening knowledge of algorithms and software design.
 - Databases : MySQL, MongoDB, PostgreSQL, DynamoDB
 - Tools: Excel, Git, VS Code, MS Office
 
-## 🌟 Highlights
-- Favorite Projects:
-  - **Project Name:** One-line description of what it does.
-  - **Project Name:** One-line description of what it does.
-- Certifications/Awards: (Mention any, e.g. Hackathon winner, online course certificates)
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/nilashish-de-2083ba270/) 
-- [Personal Website](#) 
 - [Email](mailto:nilashishde103@gmail.com)
 
 ## ✨ Fun Facts
